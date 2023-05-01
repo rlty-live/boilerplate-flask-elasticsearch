@@ -1,5 +1,5 @@
 appdirs==1.4.3
-Flask==0.12.1
+Flask==2.3.2
 Jinja2==2.9.6
 MarkupSafe==1.0
 pyparsing==2.2.0
